@@ -1,0 +1,3 @@
+[submodule "utils/thirdparty/dotnetfile"]
+	path = utils/thirdparty/dotnetfile
+	url = https://github.com/pan-unit42/dotnetfile.git
